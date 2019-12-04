@@ -14,7 +14,7 @@ img {
   margin-right: auto;
 }
 
-nav, figcaption {
+nav, figcaption, p {
   text-align: center;
 }
 nav a {
